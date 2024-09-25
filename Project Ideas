@@ -1,0 +1,40 @@
+Final Project Ideas:
+Clara Caffrey and Anna Nelson
+Info 2950
+Phase 1
+
+
+Dataset Idea 1:
+Description: Our first dataset idea is different data about MLB season success, including games won, total runs, record, playoffs, etc. We will compare this to the demographic information of the team including age, height, and hometown
+
+Availability: We know there is a website with mlb data baseballreference.com: https://www.baseball-reference.com/?__hstc=213859787.d60590d389b2fa3e895f9fb9013fd874.1727195638490.1727195638490.1727195638490.1&__hssc=213859787.1.1727195638490&__hsfp=1400577961. This was given to us so we know it is scrapeable. On the mlb website, there is demographic data for each player including age, height, and hometown: https://www.mlb.com/players. We are not sure 
+
+Questions for Reviewers
+Is the official MLB website scrapeable? Would we be able to collect this data about each individual player?
+Should we narrow it to a specific team/region? Should we do individual success or go off the teams and collect the demographic data for the team?
+
+
+Dataset Idea 2:
+Description: Our second dataset idea is to compare suicide rates with population densities of countries around the world. We will see if suicide are lower or higher in countries with higher populations. Is there a proportional relationship we can find between them?
+
+Availability: We know there is this dataset of suicide rates that is scrapable: https://www.who.int/data/gho/data/themes/mental-health/suicide-rates (This link is from canvas page, so we know its scrapeable). For population we found this dataset that has population rate for different countries through the years: https://www.kaggle.com/datasets/tanishqdublish/world-data-population. This is from kraggle so we know it is scrapeable and it says the license is MIT.
+
+
+Questions for Reviewers
+Should we narrow down our population data to make it specific to the US or is global rates okay? 
+Should we do current rates, or compare how the suicide rates have changed overtime with how population rates have changed over time?
+Is this data set from kraggle reliable?
+
+
+
+
+Dataset Idea 3:
+Description: Our third idea is analyzing movie production data and seeing if the success of a movie, based on positive reviews, correlates with the amount of women in the cast. 
+
+Availability: We found this dataset: https://www.kaggle.com/datasets/rounakbanik/the-movies-dataset
+ that has data about cast, crew, plot, revenue, ratings, and more. This dataset is from kraggle and it scrapeable. The data is from the Full MovieLens Dataset. 
+
+Questions for Reviewers
+Is this dataset reliable to use since it is scraped from a different dataset and is on kraggle?
+
+
